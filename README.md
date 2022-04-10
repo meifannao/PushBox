@@ -1,2 +1,2 @@
 # PushBox
-基于Android studio开发的推箱子小游戏
+基于Android studio开发的推箱子小游戏，给出了src部分代码，在Android studio下调试环境之后可以使用雷电模拟器运行，可以生成apk，运行在Android系统上，详细内容请见实验报告
